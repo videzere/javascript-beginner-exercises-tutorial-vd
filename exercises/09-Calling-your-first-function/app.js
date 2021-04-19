@@ -4,3 +4,6 @@ function isOdd(myNumber)
 }
 
 // Your code below:
+var myNumber = prompt('Input a number?');
+
+console.log(isOdd(myNumber));
